@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - comrak-wasm@0.0.5
