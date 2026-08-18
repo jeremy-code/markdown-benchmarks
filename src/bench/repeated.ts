@@ -1,4 +1,4 @@
-import { readFile, glob, writeFile } from "node:fs/promises";
+import { readFile, glob } from "node:fs/promises";
 import { parse, relative } from "node:path";
 import { Bench } from "tinybench";
 
