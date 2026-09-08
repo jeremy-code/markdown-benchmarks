@@ -1,5 +1,30 @@
 # markdown-benchmarks
 
+Sorted from fastest to slowest. Ran on [GitHub Actions runner Ubuntu 24.04](https://github.com/jeremy-code/markdown-benchmarks/actions/runs/34191245817).
+
+| Name                              | Hz      | Min      | Mean     | P75      | P99      | P999     | Rme    | Samples |
+| :-------------------------------- | :------ | :------- | :------- | :------- | :------- | :------- | :----- | :------ |
+| satteri                           | 17.3957 | 57.4623  | 57.4853  | 57.4965  | 57.4972  | 57.4972  | ±0.01% | 32      |
+| markdown-to-jsx                   | 4.3329  | 230.79   | 230.79   | 230.79   | 230.79   | 230.79   | ±0.00% | 32      |
+| comrak-wasm                       | 3.0621  | 326.56   | 326.58   | 326.57   | 326.60   | 326.60   | ±0.00% | 32      |
+| commonmark                        | 2.4885  | 401.85   | 401.85   | 401.86   | 401.86   | 401.86   | ±0.00% | 32      |
+| tanstack-markdown                 | 2.4872  | 402.05   | 402.06   | 402.06   | 402.06   | 402.06   | ±0.00% | 32      |
+| comrak                            | 2.0629  | 484.76   | 484.76   | 484.76   | 484.77   | 484.77   | ±0.00% | 32      |
+| marked-async                      | 1.7087  | 585.25   | 585.25   | 585.26   | 585.26   | 585.26   | ±0.00% | 32      |
+| marked-sync                       | 1.6615  | 601.85   | 601.87   | 601.87   | 601.88   | 601.88   | ±0.00% | 32      |
+| markdown-it                       | 1.2961  | 771.56   | 771.56   | 771.56   | 771.57   | 771.57   | ±0.00% | 32      |
+| micromark-stream                  | 0.1947  | 3,589.73 | 5,350.83 | 6,248.35 | 7,147.11 | 7,163.18 | ±7.27% | 32      |
+| micromark                         | 0.1524  | 6,559.71 | 6,559.72 | 6,559.73 | 6,559.73 | 6,559.73 | ±0.00% | 32      |
+| markdown-to-mdast-to-hast-to-html | 0.1310  | 7,634.57 | 7,634.58 | 7,634.59 | 7,634.59 | 7,634.59 | ±0.00% | 32      |
+| unified-remark-rehype-sync        | 0.1292  | 7,739.52 | 7,739.54 | 7,739.55 | 7,739.55 | 7,739.55 | ±0.00% | 32      |
+| unified-remark-rehype-async       | 0.1270  | 7,875.14 | 7,875.14 | 7,875.14 | 7,875.14 | 7,875.14 | ±0.00% | 32      |
+
+<details>
+
+<summary>Older results</summary>
+
+**https://github.com/jeremy-code/markdown-benchmarks/tree/fab0711614b71653d180b53bc66e082016d8c007**
+
 ## Results
 
 These benchmarks were done on a MacBook Air M1, 2020 (8 GB) macOS Tahoe 26.5.2. Broadly, in every category, markdown-to-jsx ranked first by a large margin, followed by comrak-wasm, @tanstack/markdown.
@@ -739,3 +764,4 @@ These benchmarks were done on a MacBook Air M1, 2020 (8 GB) macOS Tahoe 26.5.2. 
     </tr>
   </tbody>
 </table>
+</details>

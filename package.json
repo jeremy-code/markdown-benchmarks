@@ -5,7 +5,8 @@
   "scripts": {
     "start": "vitest bench --run",
     "bench": "vitest bench --run",
-    "test": "vitest --run"
+    "test": "vitest --run",
+    "write-table": "node ./scripts/write-table.ts"
   },
   "keywords": [],
   "license": "MIT",
@@ -32,6 +33,7 @@
     "@types/commonmark": "^0.27.10",
     "@types/node": "^24.12.4",
     "is-html": "^3.2.0",
+    "tablemark": "^4.1.0",
     "tinybench": "^6.1.3",
     "typescript": "^7.0.2",
     "vitest": "^5.0.0"
