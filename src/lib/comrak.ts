@@ -1,5 +1,8 @@
 import { markdownToHTML } from "comrak";
+import type { ParserFunction } from "../interfaces.ts";
 
-export default async (markdownFiles: string[]) => {
-  markdownFiles.map((markdownFile) => markdownToHTML(markdownFile));
+const comrak: ParserFunction = (markdownFiles) => {
+  return markdownFiles.map((markdownFile) => markdownToHTML(markdownFile));
 };
+
+export default comrak;

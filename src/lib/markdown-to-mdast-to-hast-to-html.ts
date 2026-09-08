@@ -1,9 +1,14 @@
 import { fromMarkdown } from "mdast-util-from-markdown";
 import { toHast } from "mdast-util-to-hast";
 import { toHtml } from "hast-util-to-html";
+import type { ParserFunction } from "../interfaces.ts";
 
-export default async (markdownFiles: string[]) => {
-  markdownFiles.map((markdownFile) =>
+const markdownToMdastToHastToHtml: ParserFunction = (
+  markdownFiles: string[],
+) => {
+  return markdownFiles.map((markdownFile) =>
     toHtml(toHast(fromMarkdown(markdownFile))),
   );
 };
+
+export default markdownToMdastToHastToHtml;

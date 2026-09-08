@@ -1,5 +1,10 @@
 import { marked } from "marked";
+import type { ParserFunction } from "../interfaces.ts";
 
-export default async (markdownFiles: string[]) => {
-  markdownFiles.map((markdownFile) => marked(markdownFile, { async: false }));
+const markedSync: ParserFunction = (markdownFiles) => {
+  return markdownFiles.map((markdownFile) =>
+    marked(markdownFile, { async: false }),
+  );
 };
+
+export default markedSync;

@@ -1,7 +1,10 @@
 import MarkdownIt from "markdown-it";
+import type { ParserFunction } from "../interfaces.ts";
 
 const md = new MarkdownIt();
 
-export default async (fixtures: string[]) => {
-  return fixtures.map((fixture) => md.render(fixture));
+const markdownIt: ParserFunction = (markdownFiles) => {
+  return markdownFiles.map((markdownFile) => md.render(markdownFile));
 };
+
+export default markdownIt;

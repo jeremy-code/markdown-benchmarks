@@ -1,5 +1,9 @@
 import { renderHtml } from "@tanstack/markdown/html";
 
-export default async (markdownFiles: string[]) => {
-  markdownFiles.map((markdownFile) => renderHtml(markdownFile));
+import type { ParserFunction } from "../interfaces.ts";
+
+const tanstackMarkdown: ParserFunction = (markdownFiles) => {
+  return markdownFiles.map((markdownFile) => renderHtml(markdownFile));
 };
+
+export default tanstackMarkdown;

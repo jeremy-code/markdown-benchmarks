@@ -1,7 +1,10 @@
 import { marked } from "marked";
+import type { ParserFunction } from "../interfaces.ts";
 
-export default async (markdownFiles: string[]) => {
-  await Promise.all(
+const markedAsync: ParserFunction = async (markdownFiles) => {
+  return await Promise.all(
     markdownFiles.map((markdownFile) => marked(markdownFile, { async: true })),
   );
 };
+
+export default markedAsync;
