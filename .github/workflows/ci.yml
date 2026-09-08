@@ -3,8 +3,6 @@ name: CI
 on:
   push:
     branches: ["main"]
-  pull_request:
-    types: [opened, synchronize]
 
 permissions: {} # Each job defines its own permissions explicitly
 
@@ -12,7 +10,8 @@ jobs:
   build:
     name: Build
     permissions:
-      contents: read # Access to check out code and install dependencies
+      contents: write # Access to check out code and install dependencies
+      pull-requests: write
     runs-on: ubuntu-latest
 
     steps:
