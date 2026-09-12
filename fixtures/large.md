@@ -1,9 +1,8 @@
-
 ## Section 1
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -35,11 +34,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -55,13 +54,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 2
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -93,11 +91,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -113,13 +111,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 3
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -151,11 +148,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -171,13 +168,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 4
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -209,11 +205,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -229,13 +225,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 5
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -267,11 +262,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -287,13 +282,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 6
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -325,11 +319,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -345,13 +339,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 7
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -383,11 +376,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -403,13 +396,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 8
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -441,11 +433,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -461,13 +453,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 9
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -499,11 +490,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -519,13 +510,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 10
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -557,11 +547,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -577,13 +567,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 11
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -615,11 +604,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -635,13 +624,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 12
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -673,11 +661,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -693,13 +681,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 13
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -731,11 +718,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -751,13 +738,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 14
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -789,11 +775,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -809,13 +795,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 15
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -847,11 +832,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -867,13 +852,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 16
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -905,11 +889,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -925,13 +909,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 17
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -963,11 +946,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -983,13 +966,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 18
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1021,11 +1003,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1041,13 +1023,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 19
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1079,11 +1060,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1099,13 +1080,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 20
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1137,11 +1117,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1157,13 +1137,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 21
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1195,11 +1174,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1215,13 +1194,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 22
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1253,11 +1231,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1273,13 +1251,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 23
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1311,11 +1288,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1331,13 +1308,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 24
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1369,11 +1345,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1389,13 +1365,12 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-
 
 ## Section 25
 
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -1427,11 +1402,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 
@@ -1447,4 +1422,3 @@ fn main() {
 Markdown parsers need to handle ordinary paragraphs efficiently. This paragraph contains entities such as &copy;, escaped punctuation like \*, and a URL such as <https://example.com>. It also includes a line break.
 
 Another paragraph follows with enough text to make this closer to a normal article than a microbenchmark.
-

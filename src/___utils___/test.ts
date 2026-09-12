@@ -9,9 +9,9 @@ const [smallMd, mediumMd, largeMd, repeatedMd] = await Promise.all([
 ]);
 
 const test = baseTest
-  .extend("smallMd", () => smallMd)
-  .extend("mediumMd", () => mediumMd)
-  .extend("largeMd", () => largeMd)
-  .extend("repeatedMd", () => repeatedMd);
+  .extend("smallMd", { scope: "file" }, () => smallMd)
+  .extend("mediumMd", { scope: "file" }, () => mediumMd)
+  .extend("largeMd", { scope: "file" }, () => largeMd)
+  .extend("repeatedMd", { scope: "file" }, () => repeatedMd);
 
 export { test };

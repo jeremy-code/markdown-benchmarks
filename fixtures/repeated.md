@@ -1,6 +1,6 @@
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -13,12 +13,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -30,13 +31,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -49,12 +51,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -66,13 +69,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -85,12 +89,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -102,13 +107,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -121,12 +127,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -139,12 +146,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -156,13 +164,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -175,12 +184,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -192,13 +202,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -211,12 +222,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -228,13 +240,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -247,12 +260,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -264,13 +278,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -283,12 +298,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -301,12 +317,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -318,13 +335,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -337,12 +355,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -354,13 +373,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -373,12 +393,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -390,13 +411,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -409,12 +431,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -426,13 +449,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -445,12 +469,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -463,12 +488,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -480,13 +506,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -499,12 +526,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -516,13 +544,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -535,12 +564,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -553,12 +583,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -570,13 +601,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -589,12 +621,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -606,13 +639,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -625,12 +659,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -643,12 +678,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -660,13 +696,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -679,12 +716,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -696,13 +734,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -715,12 +754,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -732,13 +772,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -751,12 +792,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -768,13 +810,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -787,12 +830,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -805,12 +849,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -822,13 +867,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -841,12 +887,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -858,13 +905,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -877,12 +925,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -894,13 +943,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -913,12 +963,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -930,13 +981,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -949,12 +1001,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -967,12 +1020,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -984,13 +1038,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1003,12 +1058,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1020,13 +1076,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1039,12 +1096,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1056,13 +1114,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1075,12 +1134,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1092,13 +1152,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1111,12 +1172,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1129,12 +1191,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1146,13 +1209,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1165,12 +1229,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1182,13 +1247,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1201,12 +1267,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1219,12 +1286,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1236,13 +1304,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1255,12 +1324,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1272,13 +1342,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1291,12 +1362,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1309,12 +1381,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1326,13 +1399,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1345,12 +1419,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1362,13 +1437,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1381,12 +1457,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1398,13 +1475,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1417,12 +1495,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1434,13 +1513,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1453,12 +1533,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1471,12 +1552,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1488,13 +1570,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1507,12 +1590,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1524,13 +1608,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1543,12 +1628,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1560,13 +1646,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1579,12 +1666,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1596,13 +1684,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1615,12 +1704,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1633,12 +1723,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1650,13 +1741,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1669,12 +1761,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1686,13 +1779,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1705,12 +1799,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1722,13 +1817,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1741,12 +1837,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1758,13 +1855,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1777,12 +1875,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1795,12 +1894,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1812,13 +1912,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1831,12 +1932,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1848,13 +1950,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1867,12 +1970,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1885,12 +1989,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1902,13 +2007,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1921,12 +2027,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1938,13 +2045,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1957,12 +2065,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1975,12 +2084,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -1992,13 +2102,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2011,12 +2122,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2028,13 +2140,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2047,12 +2160,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2064,13 +2178,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2083,12 +2198,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2100,13 +2216,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2119,12 +2236,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2137,12 +2255,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2154,13 +2273,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2173,12 +2293,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2190,13 +2311,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2209,12 +2331,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2227,12 +2350,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2244,13 +2368,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2263,12 +2388,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2280,13 +2406,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2299,12 +2426,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2317,12 +2445,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2334,13 +2463,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2353,12 +2483,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2370,13 +2501,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2389,12 +2521,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2406,13 +2539,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2425,12 +2559,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2442,13 +2577,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2461,12 +2597,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2479,12 +2616,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2496,13 +2634,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2515,12 +2654,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2532,13 +2672,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2551,12 +2692,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2569,12 +2711,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2586,13 +2729,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2605,12 +2749,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2622,13 +2767,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2641,12 +2787,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2659,12 +2806,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2676,13 +2824,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2695,12 +2844,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2712,13 +2862,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2731,12 +2882,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2748,13 +2900,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2767,12 +2920,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2784,13 +2938,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2803,12 +2958,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2821,12 +2977,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2838,13 +2995,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2857,12 +3015,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2874,13 +3033,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2893,12 +3053,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2910,13 +3071,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2929,12 +3091,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2946,13 +3109,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2965,12 +3129,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -2983,12 +3148,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3000,13 +3166,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3019,12 +3186,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3036,13 +3204,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3055,12 +3224,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3072,13 +3242,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3091,12 +3262,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3108,13 +3280,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3127,12 +3300,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3145,12 +3319,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3162,13 +3337,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3181,12 +3357,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3198,13 +3375,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3217,12 +3395,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3235,12 +3414,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3252,13 +3432,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3271,12 +3452,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3288,13 +3470,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3307,12 +3490,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3325,12 +3509,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3342,13 +3527,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3361,12 +3547,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3378,13 +3565,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3397,12 +3585,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3414,13 +3603,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3433,12 +3623,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3450,13 +3641,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3469,12 +3661,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3487,12 +3680,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3504,13 +3698,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3523,12 +3718,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3540,13 +3736,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3559,12 +3756,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3577,12 +3775,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3594,13 +3793,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3613,12 +3813,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3630,13 +3831,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3649,12 +3851,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3667,12 +3870,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3684,13 +3888,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3703,12 +3908,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3720,13 +3926,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3739,12 +3946,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3756,13 +3964,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3775,12 +3984,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3792,13 +4002,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3811,12 +4022,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3829,12 +4041,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3846,13 +4059,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3865,12 +4079,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3882,13 +4097,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3901,12 +4117,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3919,12 +4136,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3936,13 +4154,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3955,12 +4174,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3972,13 +4192,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -3991,12 +4212,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4009,12 +4231,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4026,13 +4249,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4045,12 +4269,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4062,13 +4287,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4081,12 +4307,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4098,13 +4325,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4117,12 +4345,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4134,13 +4363,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4153,12 +4383,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4171,12 +4402,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4188,13 +4420,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4207,12 +4440,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4224,13 +4458,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4243,12 +4478,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4260,13 +4496,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4279,12 +4516,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4296,13 +4534,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4315,12 +4554,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4333,12 +4573,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4350,13 +4591,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4369,12 +4611,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4386,13 +4629,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4405,12 +4649,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4422,13 +4667,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4441,12 +4687,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4458,13 +4705,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4477,12 +4725,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4495,12 +4744,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4512,13 +4762,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4531,12 +4782,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4548,13 +4800,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4567,12 +4820,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4585,12 +4839,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4602,13 +4857,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4621,12 +4877,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4638,13 +4895,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4657,12 +4915,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4675,12 +4934,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4692,13 +4952,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4711,12 +4972,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4728,13 +4990,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4747,12 +5010,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4764,13 +5028,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4783,12 +5048,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4800,13 +5066,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4819,12 +5086,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4837,12 +5105,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4854,13 +5123,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4873,12 +5143,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4890,13 +5161,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4909,12 +5181,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4927,12 +5200,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4944,13 +5218,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4963,12 +5238,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4980,13 +5256,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -4999,12 +5276,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5017,12 +5295,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5034,13 +5313,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5053,12 +5333,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5070,13 +5351,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5089,12 +5371,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5106,13 +5389,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5125,12 +5409,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5142,13 +5427,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5161,12 +5447,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5179,12 +5466,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5196,13 +5484,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5215,12 +5504,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5232,13 +5522,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5251,12 +5542,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5269,12 +5561,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5286,13 +5579,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5305,12 +5599,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5322,13 +5617,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5341,12 +5637,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5359,12 +5656,13 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
+
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5376,13 +5674,14 @@ Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com)
 some code
 more code
 ```
+
+| A   | B   |
+| --- | --- |
+| 1   | 2   |
 
-| A | B |
-|---|---|
-| 1 | 2 |
 # Stress heading
 
-Paragraph with **strong**, *emphasis*, `code`, and [a link](https://example.com).
+Paragraph with **strong**, _emphasis_, `code`, and [a link](https://example.com).
 
 - Item one
 - Item two
@@ -5395,6 +5694,6 @@ some code
 more code
 ```
 
-| A | B |
-|---|---|
-| 1 | 2 |
+| A   | B   |
+| --- | --- |
+| 1   | 2   |

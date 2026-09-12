@@ -1,6 +1,6 @@
 # Hello, world!
 
-This is a **small** Markdown document with *emphasis*, a [link](https://example.com), and `inline code`.
+This is a **small** Markdown document with _emphasis_, a [link](https://example.com), and `inline code`.
 
 - One
 - Two

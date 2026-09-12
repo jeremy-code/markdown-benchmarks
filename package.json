@@ -2,16 +2,16 @@
   "name": "markdown-benchmarks",
   "version": "0.0.0",
   "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "type": "module",
   "scripts": {
     "start": "vitest bench --run",
     "bench": "vitest bench --run",
     "test": "vitest --run",
     "format": "oxfmt",
-    "write-table": "node ./scripts/write-table.ts"
+    "update-readme": "node ./scripts/update-readme.ts"
   },
-  "keywords": [],
-  "license": "MIT",
-  "type": "module",
   "dependencies": {
     "@tanstack/markdown": "^0.0.13",
     "commonmark": "^0.31.2",
@@ -35,8 +35,8 @@
     "@types/node": "^24.13.4",
     "is-html": "^3.2.0",
     "oxfmt": "^0.67.0",
-    "tablemark": "^4.1.0",
     "tinybench": "^6.2.0",
+    "ts-markdown-builder": "^0.6.0",
     "typescript": "^7.0.2",
     "vitest": "^5.0.0"
   },

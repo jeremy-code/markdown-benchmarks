@@ -25,12 +25,17 @@ jobs:
         run: pnpm install
 
       - name: Run tests
-        run: |
-          pnpm run test
+        run: pnpm run test
 
       - name: Run benchmarks
         run: |
           pnpm exec vitest bench --run --reporter json --outputFile.json=./test-output.json
+
+      - name: Update README.md
+        run: pnpm update-readme
+
+      - name: Format with Oxfmt
+        run: pnpm format
 
       - name: Open or update pull request
         uses: peter-evans/create-pull-request@v8

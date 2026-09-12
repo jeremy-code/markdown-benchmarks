@@ -1,6 +1,6 @@
 # Markdown Benchmark
 
-A realistic document exercises **strong**, *emphasis*, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
+A realistic document exercises **strong**, _emphasis_, ~~strikethrough~~, `inline code`, [links](https://example.com), and an image:
 
 ![Example image](https://example.com/image.png "Example")
 
@@ -32,11 +32,11 @@ fn main() {
 
 ## Table
 
-| Name | Value | Notes |
-| --- | ---: | --- |
-| Alpha | 1 | first |
-| Beta | 2 | second |
-| Gamma | 3 | third |
+| Name  | Value | Notes  |
+| ----- | ----: | ------ |
+| Alpha |     1 | first  |
+| Beta  |     2 | second |
+| Gamma |     3 | third  |
 
 ## Tasks
 

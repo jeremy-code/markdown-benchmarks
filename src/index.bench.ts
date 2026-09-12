@@ -15,9 +15,9 @@ test("benchmark Markdown libraries", async ({
       bench(
         key,
         {
-          ...(process.env.CI === "true" ?
-            { writeResult: `./benchmarks/${key}.json` }
-          : undefined),
+          ...(process.env.CI === "true"
+            ? { writeResult: `./benchmarks/${key}.json` }
+            : undefined),
         },
         () => modulePromise.then((module) => module(markdownFiles)),
       ),
