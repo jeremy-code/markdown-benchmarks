@@ -800,9 +800,7 @@ These benchmarks were done on a MacBook Air M1, 2020 (8 GB) macOS Tahoe 26.5.2. 
       <td>64</td>
     </tr>
   </tbody>
-</table>
-</details>
-    `,
+</table>`,
   ),
 ]);
 
