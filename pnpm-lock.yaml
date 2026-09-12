@@ -208,8 +208,8 @@ importers:
   .:
     dependencies:
       '@tanstack/markdown':
-        specifier: ^0.0.13
-        version: 0.0.13
+        specifier: ^0.0.14
+        version: 0.0.14
       commonmark:
         specifier: ^0.31.2
         version: 0.31.2
@@ -217,7 +217,7 @@ importers:
         specifier: 0.48.0-rc.0
         version: 0.48.0-rc.0
       comrak-wasm:
-        specifier: 0.0.7
+        specifier: ^0.0.7
         version: 0.0.7
       hast-util-to-html:
         specifier: ^9.0.5
@@ -238,7 +238,7 @@ importers:
         specifier: ^13.2.1
         version: 13.2.1
       micromark:
-        specifier: 4.0.2
+        specifier: ^4.0.2
         version: 4.0.2(supports-color@2.0.0)
       rehype-stringify:
         specifier: ^10.0.1
@@ -588,8 +588,8 @@ packages:
   '@rolldown/pluginutils@1.0.1':
     resolution: {integrity: sha512-2j9bGt5Jh8hj+vPtgzPtl72j0yRxHAyumoo6TNfAjsLB04UtpSvPbPcDcBMxz7n+9CYB0c1GxQFxYRg2jimqGw==}
 
-  '@tanstack/markdown@0.0.13':
-    resolution: {integrity: sha512-ZSQP2ulBvlPzdpZeRheBJnaELo7e4ET/D/XrfgweHyqhhLMN5vUJJAUl7ufSRd7GlfO/vwdzjKPh0E0JwqJkDA==}
+  '@tanstack/markdown@0.0.14':
+    resolution: {integrity: sha512-NNjOoA7Zbmh3LG6MTxTBX3zM8sGe5bMfH3xxX5oCt1zh75TiCiaQFoQ4FKSNNhVKqpD0zzNd+qNdmA+sXR5XTw==}
     peerDependencies:
       octane: '>=0.1.12'
       react: '>=18'
@@ -1666,7 +1666,7 @@ snapshots:
 
   '@rolldown/pluginutils@1.0.1': {}
 
-  '@tanstack/markdown@0.0.13': {}
+  '@tanstack/markdown@0.0.14': {}
 
   '@tybys/wasm-util@0.10.3':
     dependencies:
