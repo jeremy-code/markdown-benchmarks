@@ -15,9 +15,7 @@ describe("Markdown libraries", () => {
       const outputs = (await value)([smallMd, mediumMd, largeMd, repeatedMd]);
       const resolvedOutputs = Array.isArray(outputs) ? outputs : await outputs;
 
-      expect(
-        resolvedOutputs.map((resolvedOutput) => isHtml(resolvedOutput)),
-      ).not.toContain(false);
+      expect(resolvedOutputs.map((resolvedOutput) => isHtml(resolvedOutput))).not.toContain(false);
     });
   });
 });
