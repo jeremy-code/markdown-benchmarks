@@ -45,7 +45,7 @@ const tinyBenchTable =
     }),
   );
 
-const README_PATH = fileURLToPath(new URL("../README2.md", import.meta.url));
+const README_PATH = fileURLToPath(new URL("../README.md", import.meta.url));
 
 const output = md.joinBlocks([
   md.heading("markdown-benchmarks"),
