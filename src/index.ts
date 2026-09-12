@@ -7,9 +7,6 @@ const libDirectory = fileURLToPath(new URL("lib", import.meta.url));
 
 const libraries = (await Array.fromAsync(glob(`${libDirectory}/*.ts`))).map<
   [string, Promise<ParserFunction>]
->((module) => [
-  basename(module, ".ts"),
-  import(module).then((m) => m.default as ParserFunction),
-]);
+>((module) => [basename(module, ".ts"), import(module).then((m) => m.default as ParserFunction)]);
 
 export { libraries };

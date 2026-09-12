@@ -1,13 +1,7 @@
 import { libraries } from "./index.ts";
 import { test } from "./___utils___/test.ts";
 
-test("benchmark Markdown libraries", async ({
-  bench,
-  smallMd,
-  mediumMd,
-  largeMd,
-  repeatedMd,
-}) => {
+test("benchmark Markdown libraries", async ({ bench, smallMd, mediumMd, largeMd, repeatedMd }) => {
   const markdownFiles = [smallMd, mediumMd, largeMd, repeatedMd];
 
   await bench.compare(
@@ -15,9 +9,7 @@ test("benchmark Markdown libraries", async ({
       bench(
         key,
         {
-          ...(process.env.CI === "true"
-            ? { writeResult: `./benchmarks/${key}.json` }
-            : undefined),
+          ...(process.env.CI === "true" ? { writeResult: `./benchmarks/${key}.json` } : undefined),
         },
         () => modulePromise.then((module) => module(markdownFiles)),
       ),
