@@ -1,0 +1,14 @@
+diff --git a/index.js b/index.js
+index f4668a6d398fe34118b91552d4fdf2cf150f4681..6f01eee1c5ee4b7bb7cd561fd84333fe8e55d963 100644
+--- a/index.js
++++ b/index.js
+@@ -536,8 +536,7 @@ nativeBinding = requireNative()
+ // Treating any non-empty string as truthy (the historical behavior) meant
+ // NAPI_RS_FORCE_WASI=false, NAPI_RS_FORCE_WASI=0, etc. inadvertently triggered
+ // the WASI path, causing ENOENT for packages shipped without a .wasi.cjs file.
+-const forceWasi =
+-  process.env.NAPI_RS_FORCE_WASI === 'true' || process.env.NAPI_RS_FORCE_WASI === 'error'
++const forceWasi = true
+ 
+ if (!nativeBinding || forceWasi) {
+   let wasiBinding = null

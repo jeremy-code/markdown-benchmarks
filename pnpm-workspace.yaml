@@ -1,2 +1,7 @@
-minimumReleaseAgeExclude:
-  - comrak-wasm@0.0.5
+patchedDependencies:
+  satteri@0.10.4: patches/satteri@0.10.4.patch
+
+supportedArchitectures:
+  cpu:
+    - current
+    - wasm32
